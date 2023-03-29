@@ -61,9 +61,6 @@ function HeaderBtn() {
           <button className="btn hidden md:inline-block">
             <BsBell />
           </button>
-          <button className="btn">
-            <BiSearch />
-          </button>
         </div>
       </div>
       <p>{transcript}</p>
