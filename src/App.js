@@ -1,5 +1,5 @@
 import Header from "./components/Header/Header";
-import "./app.css";
+import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
 import Catagory from "./components/Catagory";
